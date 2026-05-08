@@ -5,3 +5,4 @@ C# Practice Session Day 4
 C# Practice Session Day 5 
 C# Practice Session Day 6 
 C# Practice Session Day 7 
+C# Practice Session Day 8 
